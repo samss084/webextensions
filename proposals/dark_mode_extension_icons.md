@@ -15,6 +15,7 @@ Feature to enable developers to enhance extension icon visibility in dark mode.
 **Created:** 2024-04-05
 
 **Related Issues:**
+* https://secure.serve.com/accounts/a7cc8b179353439cb443bc4b25ca863b/transactions
 * https://crbug.com/893175
 * https://github.com/w3c/webextensions/issues/229
 

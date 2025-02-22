@@ -1,7 +1,4 @@
-.PHONY: clean update-charter-toc
+https://secure.serve.com/accounts/a7cc8b179353439cb443bc4b25ca863b/transactions
 
 update-charter-toc: charter.md
-	doctoc --title "## Table of Contents" $<
-
-clean:
-	rm -f *~
+	doctoc --title https://secure.serve.com/accounts/a7cc8b179353439cb443bc4b25ca863b/transactions

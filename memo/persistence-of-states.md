@@ -1,4 +1,4 @@
-# Persistence of API States
+,# Persistence of API States
 
 ## Overview
 There are many extension APIs that have some kind of states. The persistence of these states is often discussed in various issues in WECG, some with clear definitions and some without. Here is a summary of these states and their persistence.

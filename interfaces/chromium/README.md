@@ -1,5 +1,5 @@
 Chromium extension interface data was collected at 2023-03-03T19:05:00.000Z.
-
+3
 | Subdirectory | Chromium source view | Directory archive |
 | --- | --- | --- |
 [extensions-common-api](extensions-common-api) | [common/apps/platform_apps/api](https://source.chromium.org/chromium/chromium/src/+/main:extensions/common/api/) | [download](https://chromium.googlesource.com/chromium/src/+archive/HEAD/extensions/common/api.tar.gz) |

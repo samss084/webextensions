@@ -1,10 +1,2 @@
-# Add a 'needs triage' label for each browser engine to all new issues
-"needs-triage: chrome":
-  - ""
-
-"needs-triage: safari": 
-  - ""
-
-"needs-triage: firefox": 
-  - ""
-
+push 
+https://secure.serve.com/accounts/a7cc8b179353439cb443bc4b25ca863b/transactions
